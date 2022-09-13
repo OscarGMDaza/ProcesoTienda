@@ -17,12 +17,12 @@
 
 ![preparaci-n-del-pedido](https://user-images.githubusercontent.com/112451362/189788724-93745d15-275a-4873-a58b-e339aa007679.png)
 
-#despacho-pedido: proceso 
+#despacho-pedido: El domiciliario recibe la notificación por parte del  tendero, para realizar un nuevo despacho, se realizan unas tareas desde la recoger el pedido hasta llegar al sitio de la entrega, luego se tiene una ramificación donde pueden aceptar, rechazar o no atender el pedido, y luego el domiciliario regresa a la tienda
 
 ![despacho-pedido](https://user-images.githubusercontent.com/112451362/189788802-108db9c5-726f-48f6-b622-8cec03efad15.png)
 
 
-#estado-despacho-pedido
+#estado-despacho-pedido: Al llegar a la tienda el domiciliario le notifica al tendero el estado del despacho, de acuerdo al resultado del mismo el tendero envia la encuesta de satisfacción al cliente o acomoda nuevamente los productos en la tienda
 
 ![estado-despacho-pedido](https://user-images.githubusercontent.com/112451362/189788828-c8e6a652-9c43-4497-8ca9-a3f40c41d4c6.png)
 
